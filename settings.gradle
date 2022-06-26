@@ -1,0 +1,9 @@
+rootProject.name = "Proiect"
+include 'AeroportClient'
+include 'AeroportModel'
+include 'AeroportPersistance'
+include 'AeroportNetworking'
+include 'AeroportServer'
+include 'AeroportService'
+include 'RestServices'
+
